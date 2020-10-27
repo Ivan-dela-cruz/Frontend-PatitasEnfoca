@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# FRONTEND WEB PATITAS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Frontend Patitas un proyecto por voluntarios del club ENFOCA EC_
+_Patitas es un proyecto del club Enfoca Ec destinado a generar un impacto de conciencia social, promover el respecto a la vida,_
+_reducir el abandono de mascotas y fomentar la adopción responsable de mascotas._
 
-## Available Scripts
+## Tecnologías  🚀
 
-In the project directory, you can run:
+_Este apartado describe los requerimientos técnicos necesarios para poner en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+### Pre-requisitos 📋
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Que cosas necesitas para instalar el software y como instalarlas_
 
-### `npm run build`
+**NODE JS** V14.14.0
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**NPM** 6.15.8
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Editor de código**  Visual studio code o un IDE configurado para trabajar con tecnologías de JavaScript, HTML,CSS y React js
+ 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Instalación 🔧
 
-### `npm run eject`
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+_Dí cómo será ese paso_
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Da un ejemplo
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+_Y repite_
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+hasta finalizar
+```
 
-## Learn More
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Ejecutando las pruebas ⚙️
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Code Splitting
+### Analice las pruebas end-to-end 🔩
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+_Explica que verifican estas pruebas y por qué_
 
-### Analyzing the Bundle Size
+```
+Da un ejemplo
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Y las pruebas de estilo de codificación ⌨️
 
-### Making a Progressive Web App
+_Explica que verifican estas pruebas y por qué_
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+Da un ejemplo
+```
 
-### Advanced Configuration
+## Despliegue 📦
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+_Agrega notas adicionales sobre como hacer deploy_
 
-### Deployment
+## Construido con 🛠️
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-### `npm run build` fails to minify
+* [Node JS](https://nodejs.org/en/) - Motor de ejecución de JavaScript
+* [React JS](https://reactjs.org/) - El framework web usado
+* [Redux](https://redux.js.org/) - Redux es un patrón de arquitectura de datos
+* [Bootstrap](https://getbootstrap.com/) - Framework del diseño
+* [JavaScript](https://www.javascript.com/) - Lenguaje base
+* [Axios](https://www.axios.com/) - Paquete de peticiones http
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/Ivan-dela-cruz) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Andrés** - *Backend Web Service* - [FherPie](https://github.com/FherPie)
+* **Francisco Ivan Ruiz Simabaña** - *Backend Web Service* - [FranciscoIvanRuiz](https://github.com/FranciscoIvanRuiz)
+* **Ivan de la Cruz** - *Desarrollo Frontend React JS* - [Ivan-dela-cruz](https://github.com/Ivan-dela-cruz)
+* **Fernando Fuertes** - *Desarrollo Diseño Frontend* - [fernando-fuertes](https://github.com/fernando-fuertes)
+
+
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
+
+---
+⌨️ con ❤️ por [EnfocaEc](https://github.com/Ivan-dela-cruz) 😊
