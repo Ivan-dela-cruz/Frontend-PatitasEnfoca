@@ -1,6 +1,8 @@
-# Título del Proyecto
+# FRONTEND WEB PATITAS
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Frontend Patitas un proyecto por voluntarios del club ENFOCA EC_
+_Patitas es un proyecto del club Enfoca Ec destinado a generar un impacto de conciencia social, promover el respecto a la vida,_
+_reducir el abandono de mascotas y fomentar la adopción responsable de …_
 
 ## Comenzando 🚀
 
