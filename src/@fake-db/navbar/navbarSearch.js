@@ -13,9 +13,16 @@ export const searchResult = [
         icon: "Home"
       },
       {
+        id: 1000,
+        target: "Este es mi menu",
+        title: "Analytics Dashboard",
+        link: "/",
+        icon: "Home"
+      },
+      {
         id: 2,
         target: "eCommerceDashboard",
-        title: "eCommerce Dashboard",
+        title: "eCommerce Dashboard OK",
         link: "/ecommerce-dashboard",
         icon: "Home"
       },

@@ -15,6 +15,11 @@ const analyticsDashboard = lazy(() =>
 const ecommerceDashboard = lazy(() =>
   import("./views/dashboard/ecommerce/EcommerceDashboard")
 )
+
+const AppIndex = lazy(() =>
+  import("./views/dashboard/AppIndex")
+)
+
 const email = lazy(() => import("./views/apps/email/Email"))
 const chat = lazy(() => import("./views/apps/chat/Chat"))
 const todo = lazy(() => import("./views/apps/todo/Todo"))
@@ -219,6 +224,10 @@ class AppRouter extends React.Component {
       <Router history={history}>
         <Switch>
           <AppRoute exact path="/" component={analyticsDashboard} />
+          <AppRoute
+            path="/may-bb"
+            component={AppIndex}
+          />
           <AppRoute
             path="/ecommerce-dashboard"
             component={ecommerceDashboard}

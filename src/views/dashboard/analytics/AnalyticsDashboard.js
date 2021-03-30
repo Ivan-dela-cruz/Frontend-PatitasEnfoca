@@ -29,20 +29,25 @@ class AnalyticsDashboard extends React.Component {
       <React.Fragment>
         <Row className="match-height">
           <Col lg="6" md="12">
+            1111111111111
             <SalesCard />
           </Col>
           <Col lg="3" md="6" sm="12">
+            2222222222222
             <SuberscribersGained />
           </Col>
           <Col lg="3" md="6" sm="12">
+            3333333333333
             <OrdersReceived />
           </Col>
         </Row>
         <Row className="match-height">
           <Col md="6" sm="12">
+            4444444444
             <AvgSession labelColor={$label_color} primary={$primary} />
           </Col>
           <Col md="6" sm="12">
+            555555
             <SupportTracker
               primary={$primary}
               danger={$danger}
@@ -52,6 +57,7 @@ class AnalyticsDashboard extends React.Component {
         </Row>
         <Row className="match-height">
           <Col lg="4">
+            666666666666
             <ProductOrders
               primary={$primary}
               warning={$warning}
@@ -62,6 +68,7 @@ class AnalyticsDashboard extends React.Component {
             />
           </Col>
           <Col lg="4">
+            777777777777777
             <SalesStat
               strokeColor={$stroke_color}
               infoLight={$info_light}
@@ -70,11 +77,14 @@ class AnalyticsDashboard extends React.Component {
             />
           </Col>
           <Col lg="4">
+            8888888888888888888
             <ActivityTimeline />
           </Col>
         </Row>
         <Row>
           <Col sm="12">
+
+            99999999999999999
             <DispatchedOrders />
           </Col>
         </Row>

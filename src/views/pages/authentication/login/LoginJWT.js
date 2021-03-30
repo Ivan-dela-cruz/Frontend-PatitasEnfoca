@@ -47,7 +47,7 @@ class LoginJWT extends React.Component {
               <div className="form-control-position">
                 <Lock size={15} />
               </div>
-              <Label>Password</Label>
+              <Label>Contraseña</Label>
             </FormGroup>
             <FormGroup className="d-flex justify-content-between align-items-center">
               <Checkbox
@@ -72,7 +72,7 @@ class LoginJWT extends React.Component {
                 Register
               </Button.Ripple>
               <Button.Ripple color="primary" type="submit">
-                Login
+                Ingresar
               </Button.Ripple>
             </div>
           </Form>

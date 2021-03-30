@@ -3,7 +3,7 @@ import * as Icon from "react-feather"
 const navigationConfig = [
   {
     id: "dashboard",
-    title: "Dashboard",
+    title: "Patitas EC Dash",
     type: "collapse",
     icon: <Icon.Home size={20} />,
     badge: "warning",
@@ -11,7 +11,7 @@ const navigationConfig = [
     children: [
       {
         id: "analyticsDash",
-        title: "Analytics",
+        title: "Analytics ",
         type: "item",
         icon: <Icon.Circle size={12} />,
         permissions: ["admin", "editor"],
@@ -24,6 +24,14 @@ const navigationConfig = [
         icon: <Icon.Circle size={12} />,
         permissions: ["admin"],
         navLink: "/ecommerce-dashboard"
+      },       
+      {
+        id: "AppIndex",
+        title: "TO DO LIST",
+        type: "item",
+        icon: <Icon.Circle size={12} />,
+        permissions: ["admin"],
+        navLink: "/may-bb"
       }
     ]
   },

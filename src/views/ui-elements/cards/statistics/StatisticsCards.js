@@ -136,6 +136,7 @@ class StatisticsCards extends React.Component {
             />
           </Col>
           <Col lg="3" md="6" sm="12">
+            OK
             <SubscribersGained />
           </Col>
           <Col lg="3" md="6" sm="12">

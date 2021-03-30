@@ -21,7 +21,7 @@ class DispatchedOrders extends React.Component {
     return (
       <Card>
         <CardHeader>
-          <CardTitle>Dispatched Orders</CardTitle>
+          <CardTitle>OK Orders</CardTitle>
         </CardHeader>
         <Table
           responsive

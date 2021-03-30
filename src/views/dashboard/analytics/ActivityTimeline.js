@@ -18,7 +18,7 @@ class ActivityTimeline extends React.Component {
               <div className="timeline-info">
                 <p className="font-weight-bold mb-0">Client Meeting</p>
                 <span className="font-small-3">
-                  Bonbon macaroon jelly beans gummi bears jelly lollipop apple
+                    macaroon jelly beans gummi bears jelly lollipop apple
                 </span>
               </div>
               <small className="text-muted">25 mins ago</small>

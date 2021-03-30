@@ -9,6 +9,7 @@ import { FormattedMessage } from "react-intl"
 import { history } from "../../../../../history"
 
 class SideMenuContent extends React.Component {
+  
   constructor(props) {
     super(props)
 
@@ -18,6 +19,7 @@ class SideMenuContent extends React.Component {
       history.push("/misc/not-authorized")
     }
   }
+
   state = {
     flag: true,
     isHovered: false,
